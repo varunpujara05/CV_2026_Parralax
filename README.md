@@ -2,7 +2,7 @@
 
 **Robust MOT under Synthetic Adverse Weather Conditions**
 
-A research-grade multi-object tracking system for UAV (drone) imagery using the VisDrone2019-MOT dataset. The pipeline handles detection of small, dense objects and maintains tracking consistency under synthetically generated weather degradation (rain, fog, dust storms).
+Multi-object tracking system for UAV (drone) imagery using the VisDrone2019-MOT dataset. The pipeline handles detection of small, dense objects and maintains tracking consistency under synthetically generated weather degradation (rain, fog, dust storms).
 
 ## Architecture
 
