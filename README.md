@@ -119,12 +119,7 @@ Common output directories:
 - outputs/comparison/: tracker and pipeline comparison reports
 - outputs/plots*/: summary plots for paper/report use
 - outputs/videos*/: rendered qualitative result videos
-
-Example generated documents:
-- outputs/analysis_report.md
-- outputs/Codebase_Documentation.md
-- outputs/IEEE_Research_Paper.md
-
+- 
 ## Evaluation Metrics
 
 The evaluation stages include standard MOT metrics:
