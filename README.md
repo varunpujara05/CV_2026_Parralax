@@ -120,6 +120,26 @@ Common output directories:
 - outputs/plots*/: summary plots for paper/report use
 - outputs/videos*/: rendered qualitative result videos
 - 
+## Important Results and Video Outputs
+
+To visualize tracker performance, we provide sample video outputs generated on test sequences across multiple weather conditions.
+
+### BoTSORT Video Outputs (via Git LFS)
+- [Original (baseline)](Codes_and_Results/outputs/videos_botsort/botsort_baseline_original_uav0000071_03240_v.mp4)
+- [Dust (Moderate)](Codes_and_Results/outputs/videos_botsort/botsort_baseline_dust_moderate_uav0000071_03240_v.mp4)
+- [Dust (Severe)](Codes_and_Results/outputs/videos_botsort/botsort_baseline_dust_severe_uav0000071_03240_v.mp4)
+- [Fog (Moderate)](Codes_and_Results/outputs/videos_botsort/botsort_baseline_fog_moderate_uav0000071_03240_v.mp4)
+- [Rain (Moderate)](Codes_and_Results/outputs/videos_botsort/botsort_baseline_rain_moderate_uav0000071_03240_v.mp4)
+
+### ByteTrack Video Outputs (via Git LFS)
+- [Original (baseline)](Codes_and_Results/outputs/videos_bytetrack/bytetrack_baseline_original_uav0000071_03240_v.mp4)
+- [Dust (Moderate)](Codes_and_Results/outputs/videos_bytetrack/bytetrack_baseline_dust_moderate_uav0000071_03240_v.mp4)
+- [Dust (Severe)](Codes_and_Results/outputs/videos_bytetrack/bytetrack_baseline_dust_severe_uav0000071_03240_v.mp4)
+- [Fog (Moderate)](Codes_and_Results/outputs/videos_bytetrack/bytetrack_baseline_fog_moderate_uav0000071_03240_v.mp4)
+- [Rain (Moderate)](Codes_and_Results/outputs/videos_bytetrack/bytetrack_baseline_rain_moderate_uav0000071_03240_v.mp4)
+
+*Further tracking evaluation tables and plots can be generated using the scripts and are exported to `Outputs/eval_results_*` and `Outputs/plots_*` directories.*
+
 ## Evaluation Metrics
 
 The evaluation stages include standard MOT metrics:
