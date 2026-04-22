@@ -119,7 +119,6 @@ Common output directories:
 - outputs/comparison/: tracker and pipeline comparison reports
 - outputs/plots*/: summary plots for paper/report use
 - outputs/videos*/: rendered qualitative result videos
-- 
 ## Important Results and Video Outputs
 
 To visualize tracker performance, we provide sample video outputs generated on test sequences across multiple weather conditions.
